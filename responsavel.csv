@@ -1,0 +1,16 @@
+id,nome,cargo,horario,atribuicao
+1001,João Silva,Gerente,8:00 - 17:00,solda
+1002,Maria Santos,Supervisor,9:00 - 18:00,usinagem
+1003,Pedro Rocha,Técnico,10:00 - 19:00,montagem
+1004,Ana Oliveira,Coordenadora,8:30 - 17:30,usinagem
+1005,Lucas Mendes,Analista,9:30 - 18:30,montagem
+1006,Julia Ferreira,Engenheira,8:00 - 17:00,solda
+1007,Rafael Torres,Operador,14:00 - 23:00,usinagem
+1008,Carla Almeida,Supervisor,9:00 - 18:00,programacao
+1009,André Lima,Técnico,10:00 - 19:00,programacao
+1010,Fernanda Costa,Analista,8:30 - 17:30,solda
+1011,Marcos Santos,Engenheiro,9:30 - 18:30,usinagem
+1012,Isabela Oliveira,Gerente,8:00 - 17:00,materia prima
+1013,Gustavo Ferreira,Supervisor,9:00 - 18:00,montagem
+1014,Larissa Mendes,Coordenadora,10:00 - 19:00,usinagem
+1015,Rodrigo Almeida,Técnico,8:30 - 17:30,materia prima

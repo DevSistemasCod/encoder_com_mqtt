@@ -1,0 +1,21 @@
+id,registroDeEstoque,fabrica,detalhe,idResponsavel, idProduto
+1,1234,Fábrica A,Detalhe 1,1001,1
+2,5678,Fábrica B,Detalhe 2,1002,3
+3,9101,Fábrica C,Detalhe 3,1003,6
+4,1121,Fábrica A,Detalhe 4,1004,7
+5,3141,Fábrica B,Detalhe 5,1005,3
+6,5162,Fábrica C,Detalhe 6,1006,9
+7,7182,Fábrica A,Detalhe 7,1007,12
+8,9203,Fábrica B,Detalhe 8,1008,16
+9,3244,Fábrica C,Detalhe 9,1009,18
+10,5264,Fábrica A,Detalhe 10,1010,23
+11,7284,Fábrica B,Detalhe 11,1011,21
+12,9305,Fábrica C,Detalhe 12,1012,13
+13,3346,Fábrica A,Detalhe 13,1013,6
+14,5366,Fábrica B,Detalhe 14,1014,8
+15,7386,Fábrica C,Detalhe 15,1015,9
+16,9407,Fábrica A,Detalhe 16,1016,12
+17,1428,Fábrica B,Detalhe 17,1017,2
+18,3448,Fábrica C,Detalhe 18,1018,3
+19,5468,Fábrica A,Detalhe 19,1019,9
+20,7488,Fábrica B,Detalhe 20,1020,22
