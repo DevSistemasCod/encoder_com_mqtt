@@ -1,0 +1,162 @@
+[
+ {
+  "id": 1,
+  "registroDeEstoque": 1234,
+  "fabrica": "Fábrica A",
+  "detalhe": "Detalhe 1",
+  "idResponsavel": 1001,
+  " idProduto": 1
+ },
+ {
+  "id": 2,
+  "registroDeEstoque": 5678,
+  "fabrica": "Fábrica B",
+  "detalhe": "Detalhe 2",
+  "idResponsavel": 1002,
+  " idProduto": 3
+ },
+ {
+  "id": 3,
+  "registroDeEstoque": 9101,
+  "fabrica": "Fábrica C",
+  "detalhe": "Detalhe 3",
+  "idResponsavel": 1003,
+  " idProduto": 6
+ },
+ {
+  "id": 4,
+  "registroDeEstoque": 1121,
+  "fabrica": "Fábrica A",
+  "detalhe": "Detalhe 4",
+  "idResponsavel": 1004,
+  " idProduto": 7
+ },
+ {
+  "id": 5,
+  "registroDeEstoque": 3141,
+  "fabrica": "Fábrica B",
+  "detalhe": "Detalhe 5",
+  "idResponsavel": 1005,
+  " idProduto": 3
+ },
+ {
+  "id": 6,
+  "registroDeEstoque": 5162,
+  "fabrica": "Fábrica C",
+  "detalhe": "Detalhe 6",
+  "idResponsavel": 1006,
+  " idProduto": 9
+ },
+ {
+  "id": 7,
+  "registroDeEstoque": 7182,
+  "fabrica": "Fábrica A",
+  "detalhe": "Detalhe 7",
+  "idResponsavel": 1007,
+  " idProduto": 12
+ },
+ {
+  "id": 8,
+  "registroDeEstoque": 9203,
+  "fabrica": "Fábrica B",
+  "detalhe": "Detalhe 8",
+  "idResponsavel": 1008,
+  " idProduto": 16
+ },
+ {
+  "id": 9,
+  "registroDeEstoque": 3244,
+  "fabrica": "Fábrica C",
+  "detalhe": "Detalhe 9",
+  "idResponsavel": 1009,
+  " idProduto": 18
+ },
+ {
+  "id": 10,
+  "registroDeEstoque": 5264,
+  "fabrica": "Fábrica A",
+  "detalhe": "Detalhe 10",
+  "idResponsavel": 1010,
+  " idProduto": 23
+ },
+ {
+  "id": 11,
+  "registroDeEstoque": 7284,
+  "fabrica": "Fábrica B",
+  "detalhe": "Detalhe 11",
+  "idResponsavel": 1011,
+  " idProduto": 21
+ },
+ {
+  "id": 12,
+  "registroDeEstoque": 9305,
+  "fabrica": "Fábrica C",
+  "detalhe": "Detalhe 12",
+  "idResponsavel": 1012,
+  " idProduto": 13
+ },
+ {
+  "id": 13,
+  "registroDeEstoque": 3346,
+  "fabrica": "Fábrica A",
+  "detalhe": "Detalhe 13",
+  "idResponsavel": 1013,
+  " idProduto": 6
+ },
+ {
+  "id": 14,
+  "registroDeEstoque": 5366,
+  "fabrica": "Fábrica B",
+  "detalhe": "Detalhe 14",
+  "idResponsavel": 1014,
+  " idProduto": 8
+ },
+ {
+  "id": 15,
+  "registroDeEstoque": 7386,
+  "fabrica": "Fábrica C",
+  "detalhe": "Detalhe 15",
+  "idResponsavel": 1015,
+  " idProduto": 9
+ },
+ {
+  "id": 16,
+  "registroDeEstoque": 9407,
+  "fabrica": "Fábrica A",
+  "detalhe": "Detalhe 16",
+  "idResponsavel": 1016,
+  " idProduto": 12
+ },
+ {
+  "id": 17,
+  "registroDeEstoque": 1428,
+  "fabrica": "Fábrica B",
+  "detalhe": "Detalhe 17",
+  "idResponsavel": 1017,
+  " idProduto": 2
+ },
+ {
+  "id": 18,
+  "registroDeEstoque": 3448,
+  "fabrica": "Fábrica C",
+  "detalhe": "Detalhe 18",
+  "idResponsavel": 1018,
+  " idProduto": 3
+ },
+ {
+  "id": 19,
+  "registroDeEstoque": 5468,
+  "fabrica": "Fábrica A",
+  "detalhe": "Detalhe 19",
+  "idResponsavel": 1019,
+  " idProduto": 9
+ },
+ {
+  "id": 20,
+  "registroDeEstoque": 7488,
+  "fabrica": "Fábrica B",
+  "detalhe": "Detalhe 20",
+  "idResponsavel": 1020,
+  " idProduto": 22
+ }
+]
